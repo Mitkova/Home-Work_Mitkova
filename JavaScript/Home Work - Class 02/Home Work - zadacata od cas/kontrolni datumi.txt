@@ -1,0 +1,6 @@
+Datumite menuvaj gi vo odnos na denot koga ja testiras programata
+format mm/dd/yyyy
+
+01102003 - maloleten
+01112003 - sreken rodenden (denot koga tesiras)
+01122003 - polnoleten
