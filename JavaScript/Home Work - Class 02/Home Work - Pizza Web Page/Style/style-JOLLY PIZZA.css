@@ -182,22 +182,23 @@ footer img {
     text-align: center;
 }
 
-/* .socialContainer {
-    position: absolute;
-    margin: 930px, 1350px; */
+
+.socialContainer {
+   
+    /* margin: 930px, 1350px; */
 }
 .facebookSvg {
     position: absolute;
-    margin: 934px 1350px;
+    margin: 930px 1350px;
     height: 300%;
 }
 .instagramSvg {
     position: absolute;
-    margin: 928px 1400px ;
-    height: 300%;
+    margin: 923px 1410px ;
+    height: 400%;
 }
 .phoneSvg {
     position: absolute;
-    margin: 928px 1400px ;
-    height: 400%;
+    margin: 930px 1290px ;
+    height: 300%;
 }
