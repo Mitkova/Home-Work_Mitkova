@@ -1,0 +1,203 @@
+body {
+    background-image: url("../Pictures/background2.jpg");
+    background-repeat: no-repeat;
+    background-size: 1580px;
+    position: relative;
+}
+
+
+/* ---------------HEADER----------------- */
+header h3 {
+    color: gold;
+    font-style: oblique;
+    text-align: center;
+}
+
+header h1 {
+    color: white;
+    line-height: 3px;
+    text-align: center;
+}
+
+header img {
+    width: 120px;
+    height: 7px;
+    margin-left: 690px;
+    image-resolution: 2000px;
+}
+
+
+
+
+/* ---------------BUTTONS---------------- */
+.button1 {
+    position: absolute;
+    transition-duration: 2s;
+    background-color: #4CAF50;
+    border-radius: 9px;
+    margin-top: -30px;
+} 
+.button1:hover {
+    background-color: #265f28; /* Green */
+    color: white;
+}
+
+.button2 {
+    position: absolute;
+    transition-duration: 2s;
+    background-color: rgb(245, 245, 245);
+    border-radius: 9px;
+    margin-top: -30px;
+} 
+.button2:hover {
+    background-color: rgb(124, 124, 124); /* White */
+    color:white;
+}
+
+.button3 {
+    position: absolute;
+    transition-duration: 2s;
+    background-color: red;
+    border-radius: 9px;
+    margin-top: -30px;
+} 
+.button3:hover {
+    background-color: rgb(112, 3, 3); /* Red */
+    color:white;
+}
+
+
+
+
+/* ----------NAVIGATION MENU--------- */
+nav {
+    color: white;
+}
+
+nav ul {
+    margin-left: 960px;   
+    margin-top: -90px;
+    font-size: 108%;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    color:goldenrod;
+    text-decoration: unset; /* "none" go trga underline-ot od ul listata*/
+    ;
+}
+
+                     /* ova "a.current" pokazuva mometalno vo koe meni od nav si */
+nav a:hover,  nav li a.current {
+    color: rgb(54, 194, 54);
+}
+
+
+
+
+/*------- MAIN CONTENT OF THE WEB PAGE -------*/
+.img1 {
+    height: 350px;
+}
+.img2 {
+    height: 350px;
+}
+.img3 {
+    height: 350px;
+}
+
+.article1 {
+    color: gold;
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 110%;
+}
+
+.article2 {
+    position: absolute;
+    display: block;
+    color: white;
+    margin-left: 260px;
+    margin-top: 27px;
+    /* font-weight: bold; */
+    font-size: 110%;
+}
+
+.article31 {
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 0px;
+}
+
+.article32 {
+    position: absolute;
+    margin-top: 680px;
+    margin-left: 230px;
+    color:gold;
+    font-size: 110%;
+}
+
+
+.paragraph3 {
+    
+}
+
+
+
+
+/* -----------------FOOTER------------------------ */
+footer h3 {
+    color: gold;
+    font-style: oblique;
+    text-align: center;
+    
+}
+
+footer h1 {
+    color: white;
+    line-height: 0px;
+    text-align: center;
+}
+
+footer img {
+    width: 120px;
+    height: 7px;
+    /* margin-left: 690px;     */
+}
+.coppyRight{
+    font-size: 70%;
+    color: white;
+    /* padding: 7px 0px 0px 710px; */
+}
+
+.footerDiv {
+    position: absolute;
+    margin-left: 650px;
+    margin-top: 865px;
+    text-align: center;
+}
+
+/* .socialContainer {
+    position: absolute;
+    margin: 930px, 1350px; */
+}
+.facebookSvg {
+    position: absolute;
+    margin: 934px 1350px;
+    height: 300%;
+}
+.instagramSvg {
+    position: absolute;
+    margin: 928px 1400px ;
+    height: 300%;
+}
+.phoneSvg {
+    position: absolute;
+    margin: 928px 1400px ;
+    height: 400%;
+}
