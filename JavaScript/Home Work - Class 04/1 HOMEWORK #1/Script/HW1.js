@@ -1,6 +1,5 @@
 let argument = ['"name"', '"mood"', '"activity"'];
 function tellStory() {
-    // let tellStory = ("My" + argument[0] + "is Andjla ");
     let argumentName1 = "My "
     let argumentName2 = " is Andjela."
     let argumentMood1 = " Today I am in a good ";
