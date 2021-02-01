@@ -36,3 +36,7 @@ EXERCISE 3
 6. Login: check if the two input fields values are empty? if not, check if there is username in the arrayOfAllUsers and if the password for that user is same with the password in the input field value. Once it is found currentUser should be the user that is found.
 7. Logout: if currentUser !== null, than currentUser = {}
 8. check if currentUser is admin and if it is admin show all users from arrayOfAllUsers in the div
+
+
+
+
