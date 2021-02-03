@@ -1,0 +1,18 @@
+1.Create input form which will contain info about book(Name,Author,Telephone,Date). 
+After clicking on the add button the book will be inserted into unordered list.
+
+
+2.Create table which will have info about cars(Licence plates,Model,Color). 
+Every even row will have red color and every first and last td border will have background color.
+
+
+3.Create Menu option which will have 3 options(Starting,Increased,Reduce), 
+after clicking every one of them it will afect the font in the paragraph.
+
+
+4.Create Navigation Menu with 3 options. Initially on loading the page the first will be showed. 
+After clicking on another option the currentlly active content will be hiden and the selected one will be shown.
+
+
+5.Use this link https://api.openaq.org/v1/cities to make ajax call with jQuery. 
+The returned data need to be shown in unordered list.
