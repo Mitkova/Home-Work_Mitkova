@@ -25,7 +25,7 @@ function Student (firstName, lastName, birthYear, academy, grades) {
     this.getInfo = function () {
         return `This is student "${this.firstName} ${lastName}" from the academy of "${academy}" !`
     }
-    console.log(this.getInfo());
+    //console.log(this.getInfo()); - I should DELETE this
 
 
     this.avarageGrade = function(){
@@ -35,14 +35,14 @@ function Student (firstName, lastName, birthYear, academy, grades) {
         }
         return (sum / grades.length);
     };
-    console.log("Avarage grade is: " + this.avarageGrade());
+    //console.log("Avarage grade is: " + this.avarageGrade());  - I should DELETE this
 
 
     this.getAge = function() {
         let currentYear = new Date().getFullYear();
         return currentYear - this.birthYear;
     }
-    console.log("Student age is: " + this.getAge());
+    //console.log("Student age is: " + this.getAge());  - I should DELETE this
 };
 
 let student01 = new Student("Andjela", "Mitkova", "1992", "WEB Developement", [2,5,4,5]);
