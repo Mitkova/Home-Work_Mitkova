@@ -19,8 +19,8 @@ let students = [];
 let signUpBtn = document.getElementById("signUpBtn");
 let result = document.getElementById("result");
 
-let firstNameInput = document.getElementById("firstName");
-let lastNameInput = document.getElementById("lastName");
+let firstNameInput = document.getElementById("fName");
+let lastNameInput = document.getElementById("lName");
 let birtdayYearInput = document.getElementById("birthdayYear");
 let academyInput = document.getElementById("academy");
 

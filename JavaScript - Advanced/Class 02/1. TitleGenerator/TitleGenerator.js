@@ -23,7 +23,6 @@ titleBtn.addEventListener("click", function(event) {
     let colorInput = colorInputtt.value;
     let fontSizeInput = fontSizeInputtt.value;
     let textInput = textInputtt.value;
-
     
     if (!colorInput || !fontSizeInput || !textInput) {
         showMessage("Please enter valid values.", msg);
