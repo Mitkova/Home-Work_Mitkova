@@ -1,0 +1,13 @@
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 02\CSharp.HomeWork.Class02\CSharp.HomeWork.Class02.Tasck_1\bin\Debug\netcoreapp3.1\CSharp.HomeWork.Class02.Task_1.exe
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 02\CSharp.HomeWork.Class02\CSharp.HomeWork.Class02.Tasck_1\bin\Debug\netcoreapp3.1\CSharp.HomeWork.Class02.Task_1.deps.json
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 02\CSharp.HomeWork.Class02\CSharp.HomeWork.Class02.Tasck_1\bin\Debug\netcoreapp3.1\CSharp.HomeWork.Class02.Task_1.runtimeconfig.json
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 02\CSharp.HomeWork.Class02\CSharp.HomeWork.Class02.Tasck_1\bin\Debug\netcoreapp3.1\CSharp.HomeWork.Class02.Task_1.runtimeconfig.dev.json
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 02\CSharp.HomeWork.Class02\CSharp.HomeWork.Class02.Tasck_1\bin\Debug\netcoreapp3.1\CSharp.HomeWork.Class02.Task_1.dll
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 02\CSharp.HomeWork.Class02\CSharp.HomeWork.Class02.Tasck_1\bin\Debug\netcoreapp3.1\CSharp.HomeWork.Class02.Task_1.pdb
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 02\CSharp.HomeWork.Class02\CSharp.HomeWork.Class02.Tasck_1\obj\Debug\netcoreapp3.1\CSharp.HomeWork.Class02.Task_1.csprojAssemblyReference.cache
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 02\CSharp.HomeWork.Class02\CSharp.HomeWork.Class02.Tasck_1\obj\Debug\netcoreapp3.1\CSharp.HomeWork.Class02.Task_1.AssemblyInfoInputs.cache
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 02\CSharp.HomeWork.Class02\CSharp.HomeWork.Class02.Tasck_1\obj\Debug\netcoreapp3.1\CSharp.HomeWork.Class02.Task_1.AssemblyInfo.cs
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 02\CSharp.HomeWork.Class02\CSharp.HomeWork.Class02.Tasck_1\obj\Debug\netcoreapp3.1\CSharp.HomeWork.Class02.Task_1.csproj.CoreCompileInputs.cache
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 02\CSharp.HomeWork.Class02\CSharp.HomeWork.Class02.Tasck_1\obj\Debug\netcoreapp3.1\CSharp.HomeWork.Class02.Task_1.dll
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 02\CSharp.HomeWork.Class02\CSharp.HomeWork.Class02.Tasck_1\obj\Debug\netcoreapp3.1\CSharp.HomeWork.Class02.Task_1.pdb
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 02\CSharp.HomeWork.Class02\CSharp.HomeWork.Class02.Tasck_1\obj\Debug\netcoreapp3.1\CSharp.HomeWork.Class02.Task_1.genruntimeconfig.cache

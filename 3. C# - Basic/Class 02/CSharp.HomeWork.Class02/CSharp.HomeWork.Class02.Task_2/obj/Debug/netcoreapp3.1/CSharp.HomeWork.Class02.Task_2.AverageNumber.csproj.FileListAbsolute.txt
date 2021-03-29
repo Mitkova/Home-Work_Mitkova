@@ -1,0 +1,12 @@
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 02\CSharp.HomeWork.Class02\CSharp.HomeWork.Class02.Task_2\bin\Debug\netcoreapp3.1\CSharp.HomeWork.Class02.Task_2.AverageNumber.exe
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 02\CSharp.HomeWork.Class02\CSharp.HomeWork.Class02.Task_2\bin\Debug\netcoreapp3.1\CSharp.HomeWork.Class02.Task_2.AverageNumber.deps.json
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 02\CSharp.HomeWork.Class02\CSharp.HomeWork.Class02.Task_2\bin\Debug\netcoreapp3.1\CSharp.HomeWork.Class02.Task_2.AverageNumber.runtimeconfig.json
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 02\CSharp.HomeWork.Class02\CSharp.HomeWork.Class02.Task_2\bin\Debug\netcoreapp3.1\CSharp.HomeWork.Class02.Task_2.AverageNumber.runtimeconfig.dev.json
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 02\CSharp.HomeWork.Class02\CSharp.HomeWork.Class02.Task_2\bin\Debug\netcoreapp3.1\CSharp.HomeWork.Class02.Task_2.AverageNumber.dll
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 02\CSharp.HomeWork.Class02\CSharp.HomeWork.Class02.Task_2\bin\Debug\netcoreapp3.1\CSharp.HomeWork.Class02.Task_2.AverageNumber.pdb
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 02\CSharp.HomeWork.Class02\CSharp.HomeWork.Class02.Task_2\obj\Debug\netcoreapp3.1\CSharp.HomeWork.Class02.Task_2.AverageNumber.AssemblyInfoInputs.cache
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 02\CSharp.HomeWork.Class02\CSharp.HomeWork.Class02.Task_2\obj\Debug\netcoreapp3.1\CSharp.HomeWork.Class02.Task_2.AverageNumber.AssemblyInfo.cs
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 02\CSharp.HomeWork.Class02\CSharp.HomeWork.Class02.Task_2\obj\Debug\netcoreapp3.1\CSharp.HomeWork.Class02.Task_2.AverageNumber.csproj.CoreCompileInputs.cache
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 02\CSharp.HomeWork.Class02\CSharp.HomeWork.Class02.Task_2\obj\Debug\netcoreapp3.1\CSharp.HomeWork.Class02.Task_2.AverageNumber.dll
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 02\CSharp.HomeWork.Class02\CSharp.HomeWork.Class02.Task_2\obj\Debug\netcoreapp3.1\CSharp.HomeWork.Class02.Task_2.AverageNumber.pdb
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 02\CSharp.HomeWork.Class02\CSharp.HomeWork.Class02.Task_2\obj\Debug\netcoreapp3.1\CSharp.HomeWork.Class02.Task_2.AverageNumber.genruntimeconfig.cache
