@@ -1,0 +1,4 @@
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 03\Task-2 - StudentsGroup\Task-2 - StudentsGroup\obj\Debug\netcoreapp3.1\Task-2 - StudentsGroup.AssemblyInfoInputs.cache
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 03\Task-2 - StudentsGroup\Task-2 - StudentsGroup\obj\Debug\netcoreapp3.1\Task-2 - StudentsGroup.AssemblyInfo.cs
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 03\Task-2 - StudentsGroup\Task-2 - StudentsGroup\obj\Debug\netcoreapp3.1\Task-2 - StudentsGroup.csproj.CoreCompileInputs.cache
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 03\Task-2 - StudentsGroup\Task-2 - StudentsGroup\obj\Debug\netcoreapp3.1\Task-2 - StudentsGroup.csprojAssemblyReference.cache
