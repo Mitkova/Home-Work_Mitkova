@@ -1,4 +1,16 @@
 D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 03\Task-2 - StudentsGroup\Task-2 - StudentsGroup\obj\Debug\netcoreapp3.1\Task-2 - StudentsGroup.AssemblyInfoInputs.cache
 D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 03\Task-2 - StudentsGroup\Task-2 - StudentsGroup\obj\Debug\netcoreapp3.1\Task-2 - StudentsGroup.AssemblyInfo.cs
 D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 03\Task-2 - StudentsGroup\Task-2 - StudentsGroup\obj\Debug\netcoreapp3.1\Task-2 - StudentsGroup.csproj.CoreCompileInputs.cache
+<<<<<<< HEAD
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 03\Task-2 - StudentsGroup\Task-2 - StudentsGroup\bin\Debug\netcoreapp3.1\Task-2 - StudentsGroup.exe
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 03\Task-2 - StudentsGroup\Task-2 - StudentsGroup\bin\Debug\netcoreapp3.1\Task-2 - StudentsGroup.deps.json
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 03\Task-2 - StudentsGroup\Task-2 - StudentsGroup\bin\Debug\netcoreapp3.1\Task-2 - StudentsGroup.runtimeconfig.json
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 03\Task-2 - StudentsGroup\Task-2 - StudentsGroup\bin\Debug\netcoreapp3.1\Task-2 - StudentsGroup.runtimeconfig.dev.json
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 03\Task-2 - StudentsGroup\Task-2 - StudentsGroup\bin\Debug\netcoreapp3.1\Task-2 - StudentsGroup.dll
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 03\Task-2 - StudentsGroup\Task-2 - StudentsGroup\bin\Debug\netcoreapp3.1\Task-2 - StudentsGroup.pdb
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 03\Task-2 - StudentsGroup\Task-2 - StudentsGroup\obj\Debug\netcoreapp3.1\Task-2 - StudentsGroup.dll
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 03\Task-2 - StudentsGroup\Task-2 - StudentsGroup\obj\Debug\netcoreapp3.1\Task-2 - StudentsGroup.pdb
+D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 03\Task-2 - StudentsGroup\Task-2 - StudentsGroup\obj\Debug\netcoreapp3.1\Task-2 - StudentsGroup.genruntimeconfig.cache
+=======
 D:\Seavus - G3\HomeWork - GitHub\Home-Work_Mitkova\3. C# - Basic\Class 03\Task-2 - StudentsGroup\Task-2 - StudentsGroup\obj\Debug\netcoreapp3.1\Task-2 - StudentsGroup.csprojAssemblyReference.cache
+>>>>>>> fe996b7324436c1535ef7469d6287f137357db99

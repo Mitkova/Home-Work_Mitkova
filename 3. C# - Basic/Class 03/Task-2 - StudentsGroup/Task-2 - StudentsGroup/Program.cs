@@ -21,13 +21,21 @@ namespace StudentGroup.Task2
             {
                 if (number == 1)
                 {
-                    foreach (string array1 in studentsG1) ;
-                    Console.WriteLine($"The studets in G1 are: {array1} ");
+                    Console.WriteLine("The students in G1 are: ");
+                    foreach (string array1 in studentsG1)
+                    { 
+                    //Console.WriteLine($"The studets in G1 are: {array1} ");
+                    Console.WriteLine(array1);
+                    }
                 }
                 else if (number == 2)
                 {
-                    foreach (string array2 in studentsG2) ;
-                    Console.WriteLine($"The studets in G2 are: {array2}");
+                    Console.WriteLine("The students in G2 are: ");
+                    foreach (string array2 in studentsG2)
+                    { 
+                    //Console.WriteLine($"The studets in G2 are: {array2}");
+                    Console.WriteLine(array2);
+                    }
                 }
                 else
                 {
