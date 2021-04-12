@@ -1,0 +1,13 @@
+C:\Users\Anji\source\repos\HomeWork.CSharp.Class06\HomeWork.CSharp.Class06.Task1\bin\Debug\netcoreapp3.1\HomeWork.CSharp.Class06.Task1.exe
+C:\Users\Anji\source\repos\HomeWork.CSharp.Class06\HomeWork.CSharp.Class06.Task1\bin\Debug\netcoreapp3.1\HomeWork.CSharp.Class06.Task1.deps.json
+C:\Users\Anji\source\repos\HomeWork.CSharp.Class06\HomeWork.CSharp.Class06.Task1\bin\Debug\netcoreapp3.1\HomeWork.CSharp.Class06.Task1.runtimeconfig.json
+C:\Users\Anji\source\repos\HomeWork.CSharp.Class06\HomeWork.CSharp.Class06.Task1\bin\Debug\netcoreapp3.1\HomeWork.CSharp.Class06.Task1.runtimeconfig.dev.json
+C:\Users\Anji\source\repos\HomeWork.CSharp.Class06\HomeWork.CSharp.Class06.Task1\bin\Debug\netcoreapp3.1\HomeWork.CSharp.Class06.Task1.dll
+C:\Users\Anji\source\repos\HomeWork.CSharp.Class06\HomeWork.CSharp.Class06.Task1\bin\Debug\netcoreapp3.1\HomeWork.CSharp.Class06.Task1.pdb
+C:\Users\Anji\source\repos\HomeWork.CSharp.Class06\HomeWork.CSharp.Class06.Task1\obj\Debug\netcoreapp3.1\HomeWork.CSharp.Class06.Task1.csprojAssemblyReference.cache
+C:\Users\Anji\source\repos\HomeWork.CSharp.Class06\HomeWork.CSharp.Class06.Task1\obj\Debug\netcoreapp3.1\HomeWork.CSharp.Class06.Task1.AssemblyInfoInputs.cache
+C:\Users\Anji\source\repos\HomeWork.CSharp.Class06\HomeWork.CSharp.Class06.Task1\obj\Debug\netcoreapp3.1\HomeWork.CSharp.Class06.Task1.AssemblyInfo.cs
+C:\Users\Anji\source\repos\HomeWork.CSharp.Class06\HomeWork.CSharp.Class06.Task1\obj\Debug\netcoreapp3.1\HomeWork.CSharp.Class06.Task1.csproj.CoreCompileInputs.cache
+C:\Users\Anji\source\repos\HomeWork.CSharp.Class06\HomeWork.CSharp.Class06.Task1\obj\Debug\netcoreapp3.1\HomeWork.CSharp.Class06.Task1.dll
+C:\Users\Anji\source\repos\HomeWork.CSharp.Class06\HomeWork.CSharp.Class06.Task1\obj\Debug\netcoreapp3.1\HomeWork.CSharp.Class06.Task1.pdb
+C:\Users\Anji\source\repos\HomeWork.CSharp.Class06\HomeWork.CSharp.Class06.Task1\obj\Debug\netcoreapp3.1\HomeWork.CSharp.Class06.Task1.genruntimeconfig.cache
