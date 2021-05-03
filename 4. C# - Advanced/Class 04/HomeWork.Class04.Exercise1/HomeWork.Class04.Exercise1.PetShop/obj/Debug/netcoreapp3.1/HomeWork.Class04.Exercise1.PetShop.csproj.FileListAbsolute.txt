@@ -1,0 +1,13 @@
+D:\Seavus - G3\HomeWork - GitHub\4. C# - Advanced\Class 04\HomeWork.Class04.Exercise1\HomeWork.Class04.Exercise1.PetShop\bin\Debug\netcoreapp3.1\HomeWork.Class04.Exercise1.PetShop.exe
+D:\Seavus - G3\HomeWork - GitHub\4. C# - Advanced\Class 04\HomeWork.Class04.Exercise1\HomeWork.Class04.Exercise1.PetShop\bin\Debug\netcoreapp3.1\HomeWork.Class04.Exercise1.PetShop.deps.json
+D:\Seavus - G3\HomeWork - GitHub\4. C# - Advanced\Class 04\HomeWork.Class04.Exercise1\HomeWork.Class04.Exercise1.PetShop\bin\Debug\netcoreapp3.1\HomeWork.Class04.Exercise1.PetShop.runtimeconfig.json
+D:\Seavus - G3\HomeWork - GitHub\4. C# - Advanced\Class 04\HomeWork.Class04.Exercise1\HomeWork.Class04.Exercise1.PetShop\bin\Debug\netcoreapp3.1\HomeWork.Class04.Exercise1.PetShop.runtimeconfig.dev.json
+D:\Seavus - G3\HomeWork - GitHub\4. C# - Advanced\Class 04\HomeWork.Class04.Exercise1\HomeWork.Class04.Exercise1.PetShop\bin\Debug\netcoreapp3.1\HomeWork.Class04.Exercise1.PetShop.dll
+D:\Seavus - G3\HomeWork - GitHub\4. C# - Advanced\Class 04\HomeWork.Class04.Exercise1\HomeWork.Class04.Exercise1.PetShop\bin\Debug\netcoreapp3.1\HomeWork.Class04.Exercise1.PetShop.pdb
+D:\Seavus - G3\HomeWork - GitHub\4. C# - Advanced\Class 04\HomeWork.Class04.Exercise1\HomeWork.Class04.Exercise1.PetShop\obj\Debug\netcoreapp3.1\HomeWork.Class04.Exercise1.PetShop.csprojAssemblyReference.cache
+D:\Seavus - G3\HomeWork - GitHub\4. C# - Advanced\Class 04\HomeWork.Class04.Exercise1\HomeWork.Class04.Exercise1.PetShop\obj\Debug\netcoreapp3.1\HomeWork.Class04.Exercise1.PetShop.AssemblyInfoInputs.cache
+D:\Seavus - G3\HomeWork - GitHub\4. C# - Advanced\Class 04\HomeWork.Class04.Exercise1\HomeWork.Class04.Exercise1.PetShop\obj\Debug\netcoreapp3.1\HomeWork.Class04.Exercise1.PetShop.AssemblyInfo.cs
+D:\Seavus - G3\HomeWork - GitHub\4. C# - Advanced\Class 04\HomeWork.Class04.Exercise1\HomeWork.Class04.Exercise1.PetShop\obj\Debug\netcoreapp3.1\HomeWork.Class04.Exercise1.PetShop.csproj.CoreCompileInputs.cache
+D:\Seavus - G3\HomeWork - GitHub\4. C# - Advanced\Class 04\HomeWork.Class04.Exercise1\HomeWork.Class04.Exercise1.PetShop\obj\Debug\netcoreapp3.1\HomeWork.Class04.Exercise1.PetShop.dll
+D:\Seavus - G3\HomeWork - GitHub\4. C# - Advanced\Class 04\HomeWork.Class04.Exercise1\HomeWork.Class04.Exercise1.PetShop\obj\Debug\netcoreapp3.1\HomeWork.Class04.Exercise1.PetShop.pdb
+D:\Seavus - G3\HomeWork - GitHub\4. C# - Advanced\Class 04\HomeWork.Class04.Exercise1\HomeWork.Class04.Exercise1.PetShop\obj\Debug\netcoreapp3.1\HomeWork.Class04.Exercise1.PetShop.genruntimeconfig.cache
